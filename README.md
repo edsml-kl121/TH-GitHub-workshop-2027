@@ -1,4 +1,4 @@
-### PART A  Vibe Coding to create a Kanban Board
+# PART A: Vibe Coding to create a Kanban Board
 
 Switch to Plan Mode and ask the following question:
 A) Please create a kanban board style project planner for me using Nodejs stack
@@ -29,5 +29,8 @@ C) Generate system design do
 
 Current and use mermaid to generate markdown file
 
+# PART B: Custom Skills & Agent Exercise
 https://github.com/edsml-kl121/github_custom_skills_agents
+
+# PART C: MCP & Copilot & agents in github.com
 https://github.com/edsml-kl121/exercise-integrate-mcp-with-copilot
