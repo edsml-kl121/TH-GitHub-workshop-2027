@@ -1,6 +1,7 @@
 # PART A: Vibe Coding to create a Kanban Board
 
 Switch to Plan Mode and ask the following question:
+
 ```Please create a kanban board style project planner for me using Nodejs stack```
 
 **Planning questions**
@@ -23,7 +24,8 @@ Quick prototype
 
 Then please click on "Start Implementation".
 
-Lets refine the user interface and change model to gemini-3 and type:
+Lets refine the user interface and change model to gemini-3 Pro (preview) and type:
+
 ```Please make user interface look like this```
 
 ![Kanban Board](kanban_image.png)
