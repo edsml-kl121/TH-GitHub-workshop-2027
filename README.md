@@ -1,7 +1,7 @@
 # PART A: Vibe Coding to create a Kanban Board
 
 Switch to Plan Mode and ask the following question:
-A) Please create a kanban board style project planner for me using Nodejs stack
+```Please create a kanban board style project planner for me using Nodejs stack```
 
 **Planning questions**
 
@@ -23,11 +23,16 @@ Quick prototype
 
 Then please click on "Start Implementation".
 
-B) Please make user interface look like this [Upload image] 
-￼
-C) Generate system design do
+Lets refine the user interface and change model to gemini-3 and type:
+```Please make user interface look like this```
 
-Current and use mermaid to generate markdown file
+![Kanban Board](kanban_image.png)
+￼
+Lastly type:
+
+```
+Generate system design document and use mermaid to generate markdown file
+```
 
 # PART B: Custom Skills & Agent Exercise
 https://github.com/edsml-kl121/github_custom_skills_agents
