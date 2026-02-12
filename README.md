@@ -4,6 +4,7 @@ Switch to Plan Mode and ask the following question:
 A) Please create a kanban board style project planner for me using Nodejs stack
 
 **Planning questions**
+
 **1. What architecture do you want for the kanban board?**
 Full-stack app (Node.js backend + React frontend)
 - Complete application with REST API and modern UI
